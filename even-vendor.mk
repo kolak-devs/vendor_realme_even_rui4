@@ -1613,8 +1613,6 @@ PRODUCT_COPY_FILES += \
     vendor/realme/even/proprietary/vendor/etc/audio_param/VolumeGainMap_ParamUnitDesc.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_param/VolumeGainMap_ParamUnitDesc.xml \
     vendor/realme/even/proprietary/vendor/etc/audio_param/Volume_AudioParam.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_param/Volume_AudioParam.xml \
     vendor/realme/even/proprietary/vendor/etc/audio_param/Volume_ParamUnitDesc.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_param/Volume_ParamUnitDesc.xml \
-    vendor/realme/even/proprietary/vendor/etc/aurisys_config.xml:$(TARGET_COPY_OUT_VENDOR)/etc/aurisys_config.xml \
-    vendor/realme/even/proprietary/vendor/etc/aurisys_config_rv.xml:$(TARGET_COPY_OUT_VENDOR)/etc/aurisys_config_rv.xml \
     vendor/realme/even/proprietary/vendor/etc/camera/M_Attribute_AG_BMW_1.1.0.model.hardcode:$(TARGET_COPY_OUT_VENDOR)/etc/camera/M_Attribute_AG_BMW_1.1.0.model.hardcode \
     vendor/realme/even/proprietary/vendor/etc/camera/M_Attribute_Gender_Age_1.0.model.hardcode:$(TARGET_COPY_OUT_VENDOR)/etc/camera/M_Attribute_Gender_Age_1.0.model.hardcode \
     vendor/realme/even/proprietary/vendor/etc/camera/M_FaceAttribute_RGB_age_gender_1.7.1.model.hardcode:$(TARGET_COPY_OUT_VENDOR)/etc/camera/M_FaceAttribute_RGB_age_gender_1.7.1.model.hardcode \
@@ -1699,7 +1697,6 @@ PRODUCT_COPY_FILES += \
     vendor/realme/even/proprietary/vendor/etc/init/vpud.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vpud.rc \
     vendor/realme/even/proprietary/vendor/etc/init/wlan_assistant.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/wlan_assistant.rc \
     vendor/realme/even/proprietary/vendor/etc/mtk_omx_core.cfg:$(TARGET_COPY_OUT_VENDOR)/etc/mtk_omx_core.cfg \
-    vendor/realme/even/proprietary/vendor/etc/mtk_platform_codecs_config.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mtk_platform_codecs_config.xml \
     vendor/realme/even/proprietary/vendor/etc/slp_conf:$(TARGET_COPY_OUT_VENDOR)/etc/slp_conf \
     vendor/realme/even/proprietary/vendor/etc/smsdbvisitor.xml:$(TARGET_COPY_OUT_VENDOR)/etc/smsdbvisitor.xml \
     vendor/realme/even/proprietary/vendor/etc/special_pws_channel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/special_pws_channel.xml \
